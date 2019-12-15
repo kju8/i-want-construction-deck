@@ -24,7 +24,6 @@
 - 総帥の召集 / Patriarch's Bidding
 
 ## Instant
-- 神秘の指導 / Mystical Teachings
 - 苦渋の破棄 / Anguished Unmaking
 - 対抗呪文 / Counterspell
 - ドビンの拒否権 / Dovin's Veto
@@ -41,6 +40,7 @@
 - 同族の発見 / Kindred Discovery
 - 息詰まる徴税 / Smothering Tithe
 - 鏡細工 / Mirrormade
+- 予期の力線 / Leyline of Anticipation
 
 ## Artifact
 - 旗印 / Coat of Arms
