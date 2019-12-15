@@ -67,7 +67,6 @@
 - ヴァントレス城 / Castle Vantress
 - ドロマーの洞窟 / Dromar's Cavern
 - 氷河の城砦 / Glacial Fortress
-- 孤立した礼拝堂 / Isolated Chapel
 - 無声開拓地 / Silent Clearing
 - 涙の川 / River of Tears
 - 啓蒙の神殿 / Temple of Enlightenment
@@ -109,5 +108,6 @@
 - 秘儀の聖域 / Arcane Sanctum
 - 古えの居住地 / Ancient Den
 - 雲海 / Sea of Clouds
+- 進化する未開地 / Evolving Wilds
 - 沼×3
 - 島×9
