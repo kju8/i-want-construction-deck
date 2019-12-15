@@ -62,14 +62,12 @@
 - ヨーグモスの墳墓、アーボーグ / Urborg, Tomb of Yawgmoth
 - ヘリオッドの高潔の聖堂 / Hall of Heliod's Generosity
 - 人里離れた谷間 / Secluded Glen
-- 古えの居住地 / Ancient Den
 - 魂の洞窟 / Cavern of Souls
 - 統率の塔 / Command Tower
 - 祖先の道 / Path of Ancestry
 - ヴァントレス城 / Castle Vantress
 - ドロマーの洞窟 / Dromar's Cavern
 - 氷河の城砦 / Glacial Fortress
-- 雲海 / Sea of Clouds
 - 孤立した礼拝堂 / Isolated Chapel
 - 無声開拓地 / Silent Clearing
 - 涙の川 / River of Tears
@@ -109,5 +107,7 @@
 - 聖遺の塔 / Reliquary Tower
 - 囁きの大霊堂 / Vault of Whispers
 - 秘儀の聖域 / Arcane Sanctum
+- 古えの居住地 / Ancient Den
+- 雲海 / Sea of Clouds
 - 沼×3
 - 島×9
