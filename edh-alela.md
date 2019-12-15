@@ -53,7 +53,6 @@
 - アゾリウスの印鑑 / Azorius Signet
 - 発展のタリスマン / Talisman of Progress
 - 威圧のタリスマン / Talisman of Dominance
-- 聖列のタリスマン / Talisman of Hierarchy
 
 ## Planeswalker
 - 慈悲深きセラ / Serra the Benevolent
@@ -80,6 +79,7 @@
 - 巧妙な工作員、アリーラ / Alela, Artful Provocateur
 
 ## Creature
+- フェアリーの予見者 / Faerie Seer
 - フェアリーの陣形 / Faerie Formation
 - 呪文づまりのスプライト / Spellstutter Sprite
 - 惑乱スプライト / Hypnotic Sprite
