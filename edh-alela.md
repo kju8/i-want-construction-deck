@@ -15,13 +15,13 @@
 - くぐつ師の徒党 / Puppeteer Clique
 - 輝き追い / Shinechaser
 - ヴェンディリオン三人衆 / Vendilion Clique
-- スプライトの貴族 / Sprite Noble
 
 ## Sorcery
 - 遠くの旋律 / Distant Melody
 - 悪名高き群れ / Notorious Throng
 - 至高の評決 / Supreme Verdict
 - 総帥の召集 / Patriarch's Bidding
+- 遺棄の風 / Winds of Abandon
 
 ## Instant
 - 苦渋の破棄 / Anguished Unmaking
@@ -69,7 +69,7 @@
 - 氷河の城砦 / Glacial Fortress
 - 無声開拓地 / Silent Clearing
 - 涙の川 / River of Tears
-- 啓蒙の神殿 / Temple of Enlightenment
+- 広漠なる変幻地 / Terramorphic Expanse
 - 島
 - 平地×3
 
