@@ -9,7 +9,6 @@
 - エレンドラ谷のしもべ / Glen Elendra Liege
 - 誘惑蒔き / Sower of Temptation
 - フェアリーの職工 / Faerie Artisans
-- 金属ミミック / Metallic Mimic
 - 霧縛りの徒党 / Mistbind Clique
 - ウーナの黒近衛 / Oona's Blackguard
 - くぐつ師の徒党 / Puppeteer Clique
@@ -41,6 +40,7 @@
 - 息詰まる徴税 / Smothering Tithe
 - 鏡細工 / Mirrormade
 - 予期の力線 / Leyline of Anticipation
+- 破滅の贈り物 / Gift of Doom
 
 ## Artifact
 - 旗印 / Coat of Arms
