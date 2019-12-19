@@ -70,7 +70,6 @@
 - 無声開拓地 / Silent Clearing
 - 涙の川 / River of Tears
 - 広漠なる変幻地 / Terramorphic Expanse
-- 島
 - 平地×3
 
 # 購入済み
@@ -110,4 +109,4 @@
 - 雲海 / Sea of Clouds
 - 進化する未開地 / Evolving Wilds
 - 沼×3
-- 島×9
+- 島×10
