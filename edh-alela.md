@@ -6,7 +6,6 @@
 - 妖精の先触れ / Faerie Harbinger
 - 空想の元型 / Archetype of Imagination
 - 濠の大魔術師 / Magus of the Moat
-- エレンドラ谷のしもべ / Glen Elendra Liege
 - 誘惑蒔き / Sower of Temptation
 - フェアリーの職工 / Faerie Artisans
 - 霧縛りの徒党 / Mistbind Clique
@@ -16,7 +15,6 @@
 - ヴェンディリオン三人衆 / Vendilion Clique
 
 ## Sorcery
-- 遠くの旋律 / Distant Melody
 - 悪名高き群れ / Notorious Throng
 - 至高の評決 / Supreme Verdict
 - 総帥の召集 / Patriarch's Bidding
@@ -31,7 +29,6 @@
 ## Enchantment
 - きらきらするすべて / All That Glitters
 - 選定された行進 / Anointed Procession
-- 盲従 / Blind Obedience
 - 聖戦士の進軍 / Cathars' Crusade
 - ダークスティールの突然変異 / Darksteel Mutation
 - 選ばれしものの食刻 / Etchings of the Chosen
@@ -87,6 +84,9 @@
 - 動かすフェアリー / Animating Faerie
 - エレンドラ谷の大魔導師 / Glen Elendra Archmage
 
+## Sorcery
+- 遠くの旋律 / Distant Melody
+
 ## Instant
 - 否認 / Negate
 - 使い魔の策略 / Familiar's Ruse
@@ -96,6 +96,8 @@
 - 苦花 / Bitterblossom
 - 順風 / Favorable Winds
 - 重力の変容 / Gravitational Shift
+- 盲従 / Blind Obedience
+- 厄介払い / Reprobation
 
 ## Land
 - ダークスティールの城塞 / Darksteel Citadel
