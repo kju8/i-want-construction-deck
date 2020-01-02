@@ -10,7 +10,6 @@
 - フェアリーの職工 / Faerie Artisans
 - 霧縛りの徒党 / Mistbind Clique
 - ウーナの黒近衛 / Oona's Blackguard
-- くぐつ師の徒党 / Puppeteer Clique
 - 輝き追い / Shinechaser
 - ヴェンディリオン三人衆 / Vendilion Clique
 
@@ -25,6 +24,7 @@
 - 対抗呪文 / Counterspell
 - ドビンの拒否権 / Dovin's Veto
 - 剣を鍬に / Swords to Plowshares
+- 悟りの教示者 / Enlightened Tutor
 
 ## Enchantment
 - きらきらするすべて / All That Glitters
