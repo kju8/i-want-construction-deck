@@ -6,7 +6,6 @@
 - 妖精の先触れ / Faerie Harbinger
 - 空想の元型 / Archetype of Imagination
 - 霧縛りの徒党 / Mistbind Clique
-- ウーナの黒近衛 / Oona's Blackguard
 - ヴェンディリオン三人衆 / Vendilion Clique
 
 ## Sorcery
@@ -19,6 +18,7 @@
 - ダークスティールの突然変異 / Darksteel Mutation
 - 同族の発見 / Kindred Discovery
 - 破滅の贈り物 / Gift of Doom
+- 汚染 / Contamination
 
 ## Land
 - ヘリオッドの高潔の聖堂 / Hall of Heliod's Generosity
