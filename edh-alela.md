@@ -1,34 +1,13 @@
 # 購入予定
 ## Creature
-- 妖精の女王、ウーナ / Oona, Queen of the Fae
 - ウーナの末裔 / Scion of Oona
-- 悪ふざけの名人、ランクル / Rankle, Master of Pranks
 - 妖精の先触れ / Faerie Harbinger
-- 空想の元型 / Archetype of Imagination
-- 霧縛りの徒党 / Mistbind Clique
-- ヴェンディリオン三人衆 / Vendilion Clique
-
-## Sorcery
-- 総帥の召集 / Patriarch's Bidding
-
-## Instant
-- 悟りの教示者 / Enlightened Tutor
 
 ## Enchantment
-- ダークスティールの突然変異 / Darksteel Mutation
 - 同族の発見 / Kindred Discovery
-- 破滅の贈り物 / Gift of Doom
-- 汚染 / Contamination
 
 ## Land
-- ヘリオッドの高潔の聖堂 / Hall of Heliod's Generosity
-- 人里離れた谷間 / Secluded Glen
-- 祖先の道 / Path of Ancestry
 - ドロマーの洞窟 / Dromar's Cavern
-- 氷河の城砦 / Glacial Fortress
-- 無声開拓地 / Silent Clearing
-- 広漠なる変幻地 / Terramorphic Expanse
-- 平地
 
 # 購入済み
 ## Commander
@@ -48,12 +27,18 @@
 - フェアリーの職工 / Faerie Artisans
 - 濠の大魔術師 / Magus of the Moat
 - 誘惑蒔き / Sower of Temptation
+- ヴェンディリオン三人衆 / Vendilion Clique
+- 霧縛りの徒党 / Mistbind Clique
+- 悪ふざけの名人、ランクル / Rankle, Master of Pranks
+- 空想の元型 / Archetype of Imagination
+- 妖精の女王、ウーナ / Oona, Queen of the Fae
 
 ## Sorcery
 - 遠くの旋律 / Distant Melody
 - 遺棄の風 / Winds of Abandon
 - 悪名高き群れ / Notorious Throng
 - 至高の評決 / Supreme Verdict
+- 総帥の召集 / Patriarch's Bidding
 
 ## Instant
 - 否認 / Negate
@@ -63,6 +48,7 @@
 - 苦渋の破棄 / Anguished Unmaking
 - 対抗呪文 / Counterspell
 - ドビンの拒否権 / Dovin's Veto
+- 悟りの教示者 / Enlightened Tutor
 
 ## Artifact
 - 旗印 / Coat of Arms
@@ -90,11 +76,15 @@
 - 聖戦士の進軍 / Cathars' Crusade
 - 選定された行進 / Anointed Procession
 - きらきらするすべて / All That Glitters
+- ダークスティールの突然変異 / Darksteel Mutation
+- 汚染 / Contamination
+- 破滅の贈り物 / Gift of Doom
 
 ## Planeswalker
 - 慈悲深きセラ / Serra the Benevolent
 
 ## Land
+- ヘリオッドの高潔の聖堂 / Hall of Heliod's Generosity
 - ヨーグモスの墳墓、アーボーグ / Urborg, Tomb of Yawgmoth
 - ダークスティールの城塞 / Darksteel Citadel
 - 教議会の座席 / Seat of the Synod
@@ -110,6 +100,11 @@
 - 魂の洞窟 / Cavern of Souls
 - 統率の塔 / Command Tower
 - ヴァントレス城 / Castle Vantress
+- 広漠なる変幻地 / Terramorphic Expanse
+- 氷河の城砦 / Glacial Fortress
+- 無声開拓地 / Silent Clearing
+- 人里離れた谷間 / Secluded Glen
+- 祖先の道 / Path of Ancestry
 - 沼×3
 - 島×10
-- 平地×2
+- 平地×3
